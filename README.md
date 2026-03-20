@@ -18,6 +18,12 @@ This project demonstrates **API integration, dynamic UI rendering, category filt
 
 ---
 
+## 🚀 Live Demo
+
+🌐 https://sagorteasc-green-earth.vercel.app/
+
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5
